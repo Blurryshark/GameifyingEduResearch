@@ -1,22 +1,12 @@
 # Basic Linux Stuff ( General information )
 
-
-
 ##  What is a Shell
 
 The primary way you or any other user will interact with the Linux operating system is through the graphical user interface complete with icons and menus. This user interface is useful for some simple tasks, like web browsing and reading emails, but the true power of Linux lies in use of the _shell_. 
 
 The shell exists beneath the graphical user interface, and exists as a command-line interface, but how can the user interact with the shell from the GUI? The good news is that despite many graphics interfaces existing for Linux such ash GNOME, KDE, and Cinnamon, they all come with a preconfigured program called a _terminal_. The terminal program will be called by different names depending on the Linux distribution (Terminal, Konsole, etc.), but they all allow the user to issue commands to and read output from the shell.  
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-
+![shell_diagram.](shell_diagram.PNG)
 
 ## Shell Prompts
 
@@ -275,7 +265,7 @@ You can use commands like <code>pwd</code> (for “print working directory”) a
 
 
 
-![alt_text](images/image2.png "image_tooltip")
+![alt_text](filetree_diagram.PNG "image_tooltip")
 
 
 You can think of the Linux filesystem as a tree, where subdirectories branch from their parent directories, and the _root_ directory is denoted with a “/”.
