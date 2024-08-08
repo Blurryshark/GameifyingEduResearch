@@ -58,7 +58,7 @@ Deliverable: `ls Downloads`
 ### 2. 
 Prompt: Write the command you would use to see the root (/) directory
 
-Deliverable: `ls ../..`
+Deliverable: `ls /`
 
 ### 3. 
 Prompt: Write the command you would use to see the */etc* directory
@@ -200,3 +200,29 @@ Deliverable: `rmdir subdirectory/dirToRemove`
 ### man
 ### grep
 ### find
+~~
+
+submit bash history file?
+
+### File/Directory creation and moving (10 pts)
+prompt: create a file named submission.txt in your home directory before moving it to the subdirectory submissionDirectory
+
+execute the command `history -a` to save your bash history, and submit the contents of ~/.bash_history to complete this challenge
+
+~~
+
+### TODO Challenges
+wget
+
+apt
+
+C compiler
+
+BASH scripts (running and writing)
+
+grep
+
+vim
+
+
+## Creating and moving files

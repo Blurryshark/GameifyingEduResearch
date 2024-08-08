@@ -578,6 +578,26 @@ This is very useful for viewing large text files that might otherwise take up th
 
     -r	Display control characters literally; normally `less `converts them to a human-readable format
 
+## File Editing
+### vim ADD MORE TO
+```
+vim filename
+```
+vim is one of many file editors that can be installed in Linux, it is an enhanced version of a classic Linux text editor named vi.
+
+When opening a file with *vim*, you will not immediately be able to add or remove text. To add or remove text from the document, you must enter `insert` mode by pressing the `i` key. 
+
+When in `insert` mode, you will not be able to exit the editor or save your work. To do so, you must first exit `insert` mode by using the `escape` key. In order to save and quit your work on the file you are editing, you must enter `:wq`. This tells *vim* to 'write' your changes and then quit the program.
+
+These are just the basics of using *vim*, and there are many more command line-based text editors besides, the best way to get familiar with *vim* is to practice using it. 
+
+ // using vim as a code editor
+
+~~*vim* can be notoriously complicated to use, but executing the command:~~
+```
+-> vimtutor
+```
+will start an interactive tutorial on how to use it.
 
 ## Directory Traversal and Manipulation
 
