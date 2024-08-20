@@ -240,8 +240,3 @@ before hitting TAB. Notice that nothing happens, this is because there are two p
 ## Killing Programs
 
 There will be times when you want to stop a command from executing before it has finished. This may happen when a program hangs or when you open a very large file. To do this type CTRL + C. Note that this can cause programs not to ‘clean up’ properly when they close, leaving your shell without a prompt
-
-
-
-
-
