@@ -23,6 +23,7 @@ Intent: Students will be shown the use of arrow keys to access bash history, as 
 ### auto-complete commands
 Intent: students will be shown the intricacies of using the auto-compelete function in the Linux terminal
 ### & 
+Intent: Students will be shown how commands can be run in the background so as not to hold up the terminal window while long processes are undertaken
 # Directory Traversal
 ## Sequence Challenges
 ### cd
